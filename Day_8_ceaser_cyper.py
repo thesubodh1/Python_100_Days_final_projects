@@ -15,7 +15,7 @@ def ceaser_cyper(text,shift,encode_or_decide):
             new_text += alphabet[final_index]
     return (new_text)
 
-is_on = True
+is_on = Truesubodh
 while is_on:
     user_choice = input("Type 'encode' to encrypt, 'decode' to decrypt: ")
     user_message = input("Type your message: ").upper()
